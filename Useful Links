@@ -21,3 +21,6 @@ Scan SPI Ports on PICO
 
 Link to Bodmer post about SPI Display in TFT_eSPI on RP2040.  Has a really nice bouncing balls animation
 https://forum.arduino.cc/t/tft_espi-support-for-raspberry-pi-pico-added/702551/7
+
+Link to earlephilhower skeetch to test SPI.  Needed to check how to properly change SPI ports
+https://github.com/earlephilhower/arduino-pico/tree/master/libraries/SPISlave/examples/SPItoMyself
